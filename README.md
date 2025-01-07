@@ -12,4 +12,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
 
-!Numero Sorteado
+![NumeroSorteado]
