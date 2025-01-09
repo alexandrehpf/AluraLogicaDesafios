@@ -1,6 +1,6 @@
 # AluraLogicaDesafios
 
-## Titulo do 1º projeto
+## 1º projeto Sorteador de Números
 
 Aplicação web para sortear os numeros entre um intervalo.
 
