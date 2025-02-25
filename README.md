@@ -12,7 +12,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
 
-![NumeroSorteado](sorteador-numeros/img/NumeroSorteado.png)
+![Projeto1](sorteador-numeros/img/Projeto1.png)
 
 ## 2º projeto Aluguel de jogos de tabuleiro
 
