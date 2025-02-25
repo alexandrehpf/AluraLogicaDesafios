@@ -28,3 +28,17 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ![Projeto2](alugames/img/Projeto2.png)
 
+## 3º projeto Carrinho de compras
+
+Aplicação web para simular um carrinho de compras
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+As técnicas e tecnologias utilizadas pra isso são:
+
+- `HTML`: criação dos elementos da tela;
+- `CSS`: estilização da aplicação;
+- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+
+![Projeto2](carrinho-compras/assets/Projeto3.png)
+
