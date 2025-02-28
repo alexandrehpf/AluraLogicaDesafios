@@ -56,3 +56,17 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ![Projeto4](ingresso/assets/PNG/Projeto4.png)
 
+## 5º projeto Ingresso
+
+Aplicação web para simular um carrinho de compras
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+As técnicas e tecnologias utilizadas pra isso são:
+
+- `HTML`: criação dos elementos da tela;
+- `CSS`: estilização da aplicação;
+- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+
+![Projeto4](amigo-secreto/assets/Projeto5.png)
+
